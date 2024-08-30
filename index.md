@@ -1,26 +1,7 @@
-<li><a href='https://github.com/nocbersamajsn/NOC-Private/blob/main/README.md'>Beranda</a></li>
- <hr>
-<li><a href='https://github.com/nocbersamajsn/Coretan-Privat-NOC/blob/main/docs/ListAkunNOC.md'>List Akun NOC</a></li>
-<li><a href='https://github.com/nocbersamajsn/Coretan-Privat-NOC/blob/main/docs/PapingTools.md'>Paping Tools</a></li>
-<li><a href='https://github.com/nocbersamajsn/Coretan-Privat-NOC/blob/main/docs/Command-nexus.md'>Monitoring NEXSUS dan JUNIPER</a></li>
-<li><a href='https://github.com/nocbersamajsn/Coretan-Privat-NOC/blob/main/docs/setting-mitra-metro.md'>Cara Setting Mitra (Metro)</a></li>
-<li><a href='https://github.com/nocbersamajsn/Coretan-Privat-NOC/blob/main/docs/Setting-Tunnel.md'>Cara Setting Mitra (Tunnel)</a></li>
-<li><a href='https://github.com/nocbersamajsn/Coretan-Privat-NOC/blob/main/docs/BelajarVlan.md'>Belajar VLAN</a></li>
- <li><a href='https://github.com/nocbersamajsn/Coretan-Privat-NOC/blob/main/docs/KonfigSwitchCrsMetro.md'>Konfiguraasi Metro CRS</a></li>
- <li><a href='https://github.com/nocbersamajsn/Coretan-Privat-NOC/blob/main/docs/Keamanan-Tambahan.md'>Tambahan Keamanan Mikrotik</a></li>
- <li><a href='https://github.com/nocbersamajsn/Coretan-Privat-NOC/blob/main/docs/pelurusanMetro.md'>Pelurusan Metro</a></li>
- <hr>
- <li><a href='https://github.com/nocbersamajsn/Coretan-Privat-NOC/blob/main/docs/traffic-generator.md'>Traffic Generator (Metode Test Bandwidth)</a></li>
-  <hr>
-  <li><a href='https://github.com/nocbersamajsn/Coretan-Privat-NOC/blob/main/docs/Kasus%20dan%20Penanganan.md'>Contoh Kasus dan Cara Penanganan</a></li>
-
-
-
 ---
-
-
-
-
+title: Konfigurasi Tunnl
+layout: home
+---
 
 
 
