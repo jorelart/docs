@@ -1,6 +1,6 @@
 ---
-title: Konfigurasi Tunnl
-layout: home
+title: Konfigurasi Juniper
+parent: Juniper OS
 ---
 
 
