@@ -10,7 +10,7 @@ on:
   push:
     branches: ["main"]
     paths:
-      - "docs/**"
+      - "posts/**"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -60,11 +60,11 @@ jobs:
           ruby-version: '3.1'
           bundler-cache: true
           cache-version: 0
-          working-directory: '${{ github.workspace }}/docs'
+          working-directory: '${{ github.workspace }}/posts'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: "docs/_site/"
+          path: "posts/_site/"
 
   # Deployment job
   deploy:
