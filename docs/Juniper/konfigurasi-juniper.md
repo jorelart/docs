@@ -1,6 +1,6 @@
 ---
 title: Konfigurasi Juniper
-parent: Juniper OS
+parent: Juniper
 ---
 
 
